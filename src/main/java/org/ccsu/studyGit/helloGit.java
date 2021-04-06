@@ -9,6 +9,8 @@ public class helloGit {
 		System.out.println("更新");
 		System.out.println("更新");
 		System.out.println("更新");
+		System.out.println("更新");
+		System.out.println("更新");
 	}
 
 }
