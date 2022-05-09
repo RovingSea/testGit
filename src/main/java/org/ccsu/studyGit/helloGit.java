@@ -6,4 +6,8 @@ public class helloGit {
 		System.out.println("master");
 	}
 
+	public static void dev() {
+		System.out.println("dev");
+	}
+
 }
